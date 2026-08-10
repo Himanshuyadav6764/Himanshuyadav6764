@@ -1,4 +1,8 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Himanshu yadav
+**A passionate Full Stack Developer || Data Analytics Enthusiast || DSA Problem Solver from India 🇮🇳**
+
+Email Me 👉 ✉️ yadavhimanshu88272@gmail.com
+
 🔭 I’m currently building MERN Stack & AI-powered applications<br>👯 I’m looking to collaborate on Open Source, Full Stack & SaaS bases- projects<br>🤝 I’m looking for help with System Design &  DSA<br>🌱 I’m currently learning MYSQL, Excel, power bi React  Data Analytics<br>💬 Ask me about Java, DSA, MERN Stack, Web Development & AI Projects<br>⚡ Fun fact: I love turning real-world problems into scalable tech solutions 🚀
 
 
